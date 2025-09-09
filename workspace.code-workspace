@@ -7,10 +7,10 @@
 			"path": "."
 		},
 		{
-			"path": "../generator"
+			"path": "../system"
 		},
 		{
-			"path": "../website"
+			"path": "../static"
 		},
 		{
 			"path": "../server"
