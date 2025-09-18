@@ -19,5 +19,8 @@
 			"path": "../native"
 		},
 	],
-	"settings": {}
+	"settings": {
+		"explorer.sortOrder": "filesFirst",
+		"explorer.sortOrderLexicographicOptions": "unicode"
+	}
 }
